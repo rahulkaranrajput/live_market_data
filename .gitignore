@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment & Secrets
+.env
+config/settings.yaml
+
+# Data & Logs
+data/*.csv
+logs/*.log
+
+# OS files
+.DS_Store

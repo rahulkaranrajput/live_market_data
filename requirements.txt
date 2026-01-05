@@ -1,0 +1,4 @@
+fyers-apiv2
+pandas
+pyyaml
+python-dotenv
